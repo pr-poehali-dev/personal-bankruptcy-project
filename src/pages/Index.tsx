@@ -605,7 +605,7 @@ export default function Index() {
                     icon: "MapPin",
                     text: "Оренбургская обл., г. Орск, ул. Краматорская 35, офис 301 (3 этаж)",
                   },
-                  { icon: "Phone", text: "+7 (495) 123-45-67" },
+                  { icon: "Phone", text: "8 (922) 558-02-48" },
                   { icon: "Mail", text: "info@antidolg.ru" },
                   { icon: "Clock", text: "Пн–Пт: 9:00–19:00, Сб: 10:00–16:00" },
                 ].map((item) => (
@@ -762,7 +762,7 @@ export default function Index() {
 
           <div className="grid md:grid-cols-4 gap-6 max-w-4xl mx-auto">
             {[
-              { icon: "Phone", label: "Телефон", value: "+7 (495) 123-45-67" },
+              { icon: "Phone", label: "Телефон", value: "8 (922) 558-02-48" },
               { icon: "Mail", label: "Email", value: "info@antidolg.ru" },
               {
                 icon: "MapPin",
