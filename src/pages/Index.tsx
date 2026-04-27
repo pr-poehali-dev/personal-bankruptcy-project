@@ -603,7 +603,7 @@ export default function Index() {
                 {[
                   {
                     icon: "MapPin",
-                    text: "г. Москва, ул. Профессиональная, 14, офис 301",
+                    text: "Оренбургская обл., г. Орск, ул. Краматорская 35, офис 301 (3 этаж)",
                   },
                   { icon: "Phone", text: "+7 (495) 123-45-67" },
                   { icon: "Mail", text: "info@antidolg.ru" },
@@ -767,7 +767,7 @@ export default function Index() {
               {
                 icon: "MapPin",
                 label: "Адрес",
-                value: "г. Москва, ул. Профессиональная, 14",
+                value: "г. Орск, ул. Краматорская 35, офис 301",
               },
               { icon: "Clock", label: "Режим работы", value: "Пн–Сб, 9:00–19:00" },
             ].map((c) => (
